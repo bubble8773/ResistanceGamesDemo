@@ -1,0 +1,4 @@
+I started with creating a blueprint for CellBase,  which will be the cell/tile that can be clicked to spwan a new cell that has borders
+Next, CellToSpawned blueprint was created, which contains the cell with boarders and the logic to change the visibility of the border when it collides with another cell with borders.
+Worked on creating a 8 x 8 grid with the camera centered at mid poin of the grid
+It took me roughly 5 hours
